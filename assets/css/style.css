@@ -1,3 +1,7 @@
-.row {
-    height: 120px;
+.banner {
+    width: 50px;
+}
+
+.container {
+    height: 150px;
 }
