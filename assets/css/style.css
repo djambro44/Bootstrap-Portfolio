@@ -5,3 +5,12 @@
 .container {
     height: 150px;
 }
+
+body {
+    background-image: url("../img/white-painted-wall.jpg");
+    background-size: 100% auto;
+}
+
+textarea.form-control {
+    height: 200px;
+}
